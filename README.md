@@ -1,3 +1,6 @@
+
+小爬蟲爬起來
+
 Author: heimohe mail:1320245251@qq.com
 
 ##基本要求 使用python编写一个网站爬虫程序，支持参数如下：  python3 spider.py -u url -d deep -f logfile -l loglevel(1-5) --testself -thread number --dbfile filepath --key=”HTML5” 
